@@ -1,2 +1,2 @@
 employee: alice
-department: hr
+department: finance
