@@ -1,2 +1,5 @@
 employee: alice
 department: finance
+department: hr
+employee ID: 101
+Employee email: alice@company.com
