@@ -4,3 +4,4 @@ department: hr
 employee ID: 101
 Employee email: alice@company.com
 employee location: mumbai
+emergency contact added
